@@ -1,0 +1,7 @@
+import org.jboss.netty.util.internal.LinkedTransferQueue.Node;
+public class FunctionUse4580 {
+public void funcUse() {
+Node node = new Node();
+node.cannotPrecede(null);
+}
+}
